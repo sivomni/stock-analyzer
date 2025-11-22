@@ -1,0 +1,8 @@
+"# Stock Performance Analyzer" 
+"## Project Overview" 
+"Aggregate stock data and use technical indicators to identify potential performers." 
+"## Planned Features" 
+"- Data collection from Yahoo Finance" 
+"- Technical indicators (RSI, MACD, Moving Averages)" 
+"- Performance scoring system" 
+"- Visualization of results" 

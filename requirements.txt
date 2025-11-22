@@ -1,0 +1,6 @@
+"pandas" 
+"numpy" 
+"yfinance" 
+"ta-lib"   # Technical analysis library
+"matplotlib" 
+"seaborn" 
